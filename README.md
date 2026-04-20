@@ -1,13 +1,12 @@
 # svetlana-grishina
 <div align="center">
-  🎉 Привет! Я Светлана из Краснодара
+  🎉 Привет! Я Светлана 
 </div>
 
 ## 👩‍💻 Кто я
 Frontend-разработчик<br>
 Html-верстальщик<br>
 Разработчик на Wordpress<br>
-📍 Краснодар  
 ✉️ svetl.pozdina@yandex.ru
 ✉️ svetlgrish28@gmail.com
 
