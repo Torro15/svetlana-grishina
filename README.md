@@ -1,6 +1,6 @@
 # svetlana-grishina
 <div align="center">
-  🎉 Привет! Я Светлана 
+  🎉 Привет! Я Светлана. 
 </div>
 
 ## 👩‍💻 Кто я
