@@ -4,7 +4,9 @@
 </div>
 
 ## 👩‍💻 Кто я
-Frontend-разработчик  
+Frontend-разработчик
+Html-верстальщик
+Разработчик на Wordpress
 📍 Краснодар  
 ✉️ svetl.pozdina@yandex.ru
 ✉️ svetlgrish28@gmail.com
