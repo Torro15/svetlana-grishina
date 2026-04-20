@@ -7,7 +7,7 @@
 Frontend-разработчик<br>
 Html-верстальщик<br>
 Разработчик на Wordpress<br>
-✉️ svetl.pozdina@yandex.ru
+✉️ svetl.pozdina@yandex.ru<br>
 ✉️ svetlgrish28@gmail.com
 
 ## 🚀 Технологии
